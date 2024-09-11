@@ -1,1 +1,3 @@
 Hello from test file.
+
+Second sentence in test.txt file.
